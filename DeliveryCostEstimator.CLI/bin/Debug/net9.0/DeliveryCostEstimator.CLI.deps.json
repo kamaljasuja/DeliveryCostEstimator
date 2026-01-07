@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DeliveryCostEstimator.CLI/1.0.0": {
+        "dependencies": {
+          "DeliveryCostEstimator.Core": "1.0.0",
+          "DeliveryCostEstimator.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryCostEstimator.CLI.dll": {}
+        }
+      },
+      "DeliveryCostEstimator.Core/1.0.0": {
+        "runtime": {
+          "DeliveryCostEstimator.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "DeliveryCostEstimator.Infrastructure/1.0.0": {
+        "dependencies": {
+          "DeliveryCostEstimator.Core": "1.0.0"
+        },
+        "runtime": {
+          "DeliveryCostEstimator.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryCostEstimator.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryCostEstimator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DeliveryCostEstimator.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

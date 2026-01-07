@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DeliveryCostEstimator.Core/1.0.0": {
+        "runtime": {
+          "DeliveryCostEstimator.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeliveryCostEstimator.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

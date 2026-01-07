@@ -1,0 +1,11 @@
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\bin\Debug\net9.0\DeliveryCostEstimator.Core.deps.json
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\bin\Debug\net9.0\DeliveryCostEstimator.Core.dll
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\bin\Debug\net9.0\DeliveryCostEstimator.Core.pdb
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\DeliveryCostEstimator.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\DeliveryCostEstimator.Core.AssemblyInfoInputs.cache
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\DeliveryCostEstimator.Core.AssemblyInfo.cs
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\DeliveryCostEstimator.Core.csproj.CoreCompileInputs.cache
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\DeliveryCostEstimator.Core.dll
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\refint\DeliveryCostEstimator.Core.dll
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\DeliveryCostEstimator.Core.pdb
+D:\Projects\DeliveryCostEstimator\DeliveryCostEstimator.Core\obj\Debug\net9.0\ref\DeliveryCostEstimator.Core.dll
